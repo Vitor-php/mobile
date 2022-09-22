@@ -24,7 +24,7 @@ export const styles = StyleSheet.create({
   },
   cover: {
     width: 311,
-    height: 160,
+    height: 210,
     borderRadius: 8,
     marginTop: 32,
   },
